@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div class="card" style={{width: 18 +'rem'}}>
+      <div class="card m-5 shadow-lg" style={{width: 18 +'rem'}}>
   <img src="og.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
